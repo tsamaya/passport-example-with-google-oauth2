@@ -91,7 +91,8 @@ Check your profile
 
 ## Resources
 
-- [Facebook-example](https://github.com/passport/express-4.x-facebook-example) from [@jaredhanson](https://github.com/jaredhanson)
+- Passport [Facebook example](https://github.com/passport/express-4.x-facebook-example) from [@jaredhanson](https://github.com/jaredhanson)
+- [Bulma](https://bulma.io/) CSS framework based on Flexbox, from [@jgthms](https://github.com/jgthms)
 
 ## Contributing
 Anyone and everyone is very welcome to contribute.
