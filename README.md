@@ -73,7 +73,7 @@ open your browser on [localhost:3000](http://localhost:3000)
 
 ![Home](./resources/pleaselogin.png)
 
-use the menu login link
+<!-- use the menu login link
 
 ![with](./resources/loginwith.png)
 
@@ -84,17 +84,14 @@ Log with Google
 Logged in
 
 ![google](./resources/helloarnaud.png)
-Logged in
-
-![google](./resources/helloarnaud.png)
 
 Check your profile
 
-![with](./resources/account.png)
+![with](./resources/account.png) -->
 
 ## Resources
 
-- [Facebook-example](https://github.com/passport/express-4.x-facebook-example) from @jaredhanson
+- [Facebook-example](https://github.com/passport/express-4.x-facebook-example) from [@jaredhanson](https://github.com/jaredhanson)
 
 ## Contributing
 Anyone and everyone is very welcome to contribute.
