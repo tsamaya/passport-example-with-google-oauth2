@@ -41,8 +41,8 @@ First, create a project at [console.developers.google.com](https://console.devel
 
 create a `.env` file with:
 ```
-CLIENT_ID=YOUR-CLIENT-ID
-CLIENT_SECRET=YOUR-CLIENT-SECRET
+GOOGLE_CLIENT_ID=YOUR-CLIENT-ID
+GOOGLE_CLIENT_SECRET=YOUR-CLIENT-SECRET
 ```
 
 #### Install dependencies
